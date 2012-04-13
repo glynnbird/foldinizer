@@ -1,5 +1,7 @@
 #!/usr/bin/php -q
 <?php
+  // set the timezone
+  date_default_timezone_set("Europe/London");
 
   // append a slash to the supplied path if it doesn't already have one
   function slashIt($dir) {
