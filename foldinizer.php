@@ -40,7 +40,7 @@
               if(!$test_mode) {
                 
                 // make new directory
-                mkdir($dest_dir.$newpath,0775,true);
+                @mkdir($dest_dir.$newpath,0775,true);
                 
                 // copy the file into the destination
                 copy($dir.$file , $dest_dir.$newpath."/".$file);
