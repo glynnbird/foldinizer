@@ -29,6 +29,7 @@ You need a machine with PHP on, like a Mac.
 3) Test mode (optional) - by passing a third parameter, the script will do the scanning but will copy no files
 
 e.g.
+
 ```
 
 ./foldinizer.php ~/Pictures  ~/mynewfolder
