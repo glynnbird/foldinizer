@@ -14,6 +14,8 @@
 
 If you have directory containing a bunch of files that you would like organised into year/month folders, then Foldinizer is for you. 
 
+e.g. I've got loads of photos (from iPhoto) in random folders which I'd like to organise into 2012/08 folders automatically.
+
 ## How do I run it?
 
 You need a machine with PHP on, like a Mac.
